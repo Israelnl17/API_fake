@@ -1,0 +1,25 @@
+{
+  "informacoes": [
+    {
+      "id": 1,
+      "datas": "12/05",
+      "dor": "6/10",
+      "fadiga": "Moderada",
+      "efeitoColateral": "Tosse"
+    },
+    {
+      "id": 2,
+      "datas": "11/05",
+      "dor": "4/10",
+      "fadiga": "Leve",
+      "efeitoColateral": ""
+    },
+    {
+      "id": 3,
+      "datas": "10/05",
+      "dor": "9/10",
+      "fadiga": "Intensa",
+      "efeitoColateral": "Náusea"
+    }
+  ]
+}
